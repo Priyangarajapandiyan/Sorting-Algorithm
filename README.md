@@ -63,6 +63,5 @@ print(list_of_nums)
 ## Output:
 ![OUTPUT](ss.png)
 ![OUTPUT](<Screenshot 2023-12-30 195445.png>)
-
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
